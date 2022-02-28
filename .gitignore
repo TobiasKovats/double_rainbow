@@ -1,0 +1,6 @@
+elf/
+files/vinegars.bin
+logs/
+m_sm/*
+src/__pychache__
+secrets/*

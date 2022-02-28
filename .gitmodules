@@ -1,0 +1,9 @@
+[submodule "rainbowm4"]
+	path = rainbowm4
+	url = https://github.com/TobiasKovats/rainbowm4.git
+[submodule "rainbow"]
+	path = rainbow
+	url = https://github.com/Ledger-Donjon/rainbow.git
+[submodule "rainbow-submission-round2"]
+	path = rainbow-submission-round2
+	url = https://github.com/fast-crypto-lab/rainbow-submission-round2.git
